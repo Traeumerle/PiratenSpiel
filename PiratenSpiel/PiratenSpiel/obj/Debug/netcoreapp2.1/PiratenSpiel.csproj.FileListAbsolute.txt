@@ -1,0 +1,14 @@
+C:\Users\Toni\source\repos\PiratenSpiel\PiratenSpiel\bin\Debug\netcoreapp2.1\PiratenSpiel.deps.json
+C:\Users\Toni\source\repos\PiratenSpiel\PiratenSpiel\bin\Debug\netcoreapp2.1\PiratenSpiel.runtimeconfig.json
+C:\Users\Toni\source\repos\PiratenSpiel\PiratenSpiel\bin\Debug\netcoreapp2.1\PiratenSpiel.runtimeconfig.dev.json
+C:\Users\Toni\source\repos\PiratenSpiel\PiratenSpiel\bin\Debug\netcoreapp2.1\PiratenSpiel.dll
+C:\Users\Toni\source\repos\PiratenSpiel\PiratenSpiel\bin\Debug\netcoreapp2.1\PiratenSpiel.pdb
+C:\Users\Toni\source\repos\PiratenSpiel\PiratenSpiel\obj\Debug\netcoreapp2.1\PiratenSpiel.csprojAssemblyReference.cache
+C:\Users\Toni\source\repos\PiratenSpiel\PiratenSpiel\obj\Debug\netcoreapp2.1\PiratenSpiel.csproj.CoreCompileInputs.cache
+C:\Users\Toni\source\repos\PiratenSpiel\PiratenSpiel\obj\Debug\netcoreapp2.1\PiratenSpiel.RazorAssemblyInfo.cache
+C:\Users\Toni\source\repos\PiratenSpiel\PiratenSpiel\obj\Debug\netcoreapp2.1\PiratenSpiel.RazorAssemblyInfo.cs
+C:\Users\Toni\source\repos\PiratenSpiel\PiratenSpiel\obj\Debug\netcoreapp2.1\PiratenSpiel.AssemblyInfoInputs.cache
+C:\Users\Toni\source\repos\PiratenSpiel\PiratenSpiel\obj\Debug\netcoreapp2.1\PiratenSpiel.AssemblyInfo.cs
+C:\Users\Toni\source\repos\PiratenSpiel\PiratenSpiel\obj\Debug\netcoreapp2.1\PiratenSpiel.RazorTargetAssemblyInfo.cache
+C:\Users\Toni\source\repos\PiratenSpiel\PiratenSpiel\obj\Debug\netcoreapp2.1\PiratenSpiel.dll
+C:\Users\Toni\source\repos\PiratenSpiel\PiratenSpiel\obj\Debug\netcoreapp2.1\PiratenSpiel.pdb
